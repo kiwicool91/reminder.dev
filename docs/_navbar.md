@@ -1,0 +1,2 @@
+* [Snippets](/)
+* [Resources](resources.md)
